@@ -1,6 +1,6 @@
 # Skystone-Robot
 An Arduino based robot designed to complete similar tasks as the FTC Skystone Challenge.
-The robot has a USB-Bluetooth module to communicate with a PS4 Controller. It has a servo arm with multiple degrees of freedom, a grabbing mechanism, and LEDs. The robot was designed to pick up different blocks and slide around different plates. 
+The robot has a USB-Bluetooth module to communicate with a PS4 Controller. It has a servo arm with multiple degrees of freedom, a grabbing mechanism, and LEDs. The robot was designed to pick up blocks and slide around different plates. 
 
 
 
